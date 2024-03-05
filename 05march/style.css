@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding-left: 0;
+    box-sizing: border-box;
+
+}
+nav{
+    background-color: white;
+    border-bottom: 3ps solid red;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    height: ;
+margin-left: ;
+}
+nav ul{
+    display: flex;
+
+}
+nav ul li a{ text-decoration: none;
+    color: brown;
+    font-size: 23px;
+    margin: 0 20px;
+
+
+}
+nav ul li a :hover{
+    border-bottom: 3px solid red;
+    padding-bottom: 10px;
+}
+.hero{
+    background: url()no repeat center center/cover;
+    height: 90vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: center;
+     text-align:center ;
+}
+.hero h1{
+    font-size: 55px;
+    margin: 1.4rem;
+
+}
+.hero p{
+    font-size: 25px;
+    margin-bottom: 20px;
+
+}
+.btn{
+    color:gray ;
+    background-color: green;
+    border: 3ps solid gray;
+    width: 120px;
+    align-self: center;
+}

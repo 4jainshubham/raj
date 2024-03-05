@@ -1,0 +1,40 @@
+
+body{
+    font font-family: gill sans,gill sans mit,calabri;}
+    /*nested selector*/
+div h1 {
+    background-color: yellow;
+}
+div p span{
+    background-color: aqua;
+    color: red;
+    font-size: 23px;
+}
+/*nested with multiple selector*/
+h1,
+div p{
+    background-color: red;
+    color: white;
+    font-size: 40px;
+}
+
+h1{
+    background-color: rgb(150, 200, 255);
+    background-color: rgb(129, 190, 141,52);
+}
+p{
+    background-color: rgb(129, 190, 141);
+}
+span{ background-color: blueviolet;
+
+}
+div{
+    height: 100px;
+    background-image:url("C:\Users\aj\Downloads\pexels-pixabay-45853.jpg")
+    background-repeat=:repeat center:
+    background-position: center center;
+    background-size: cover;
+    background: url()no repeat center center/cover;
+
+}
+

@@ -1,0 +1,41 @@
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(14, 45, 73);
+    color: aquamarine;
+    height: 80px;
+}
+ h1{
+    text-align: center;
+
+
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0px;
+    overflow: hidden;
+
+}
+ul li{
+    list-style: none;
+    padding: 10px 20px;
+    border-radius: ;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+    font-size: 20px;
+}
+ a:hover
+{
+    background-color: rgb(2, 33, 36);
+    color: rgb(24, 202, 214);
+    border-bottom: 5px solid rgb(16, 170, 157);
+}
+.navbar li{
+    float: left;
+}

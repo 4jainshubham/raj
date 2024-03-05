@@ -1,0 +1,44 @@
+/* universal selector8*/
+*{background-color: pink;
+
+}
+body {
+    font-family: cursive;
+
+
+}
+
+/*Element selectore*/
+h1{
+    background-color: yellow;
+    color: blue;
+    font-size: 50px;
+
+
+}
+/* Id selector ....id id umique*/
+#myheading {
+    background-color: red;
+    
+}
+#mypara{
+    background-color: aqua;
+
+}
+.para{
+    background-color: rgba(54, 1, 104, 0.274);
+    background-color: rgb(rgb(49, 3, 3), hsl(120, 95%, 37%), blue);
+    background-color: rgba(red, green, rgb(111, 0, 255), alpha);
+    /* backround color: #333:*/
+    line-height: 1.8;
+    font-weight: 500;
+}
+/*multiple selector */
+p {
+    font-size: 35px;
+    font-style:italiyan;
+    text-transform:capitalize;
+    text-decoration:;
+    
+
+}
